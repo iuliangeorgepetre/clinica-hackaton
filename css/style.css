@@ -1,0 +1,124 @@
+
+.cover-background-main{
+	background-image: url('../img/background.jpg'); 
+	background-position: center;
+  	background-repeat: no-repeat;
+    background-size: cover;
+   
+
+
+
+	
+}
+
+.cover-background-second{
+	background-image: url('../img/landing.jpg'); 
+	background-position: center;
+  	background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+
+
+	
+}
+
+ul li a{
+	margin-left: 10px !important;
+	margin-right: 10px !important;
+}
+
+ul li{
+	padding-right: 10px;
+	padding-left: 10px;
+	 transition: transform .3s; 
+}
+
+
+ul li:hover{
+	
+	text-decoration: bold;
+	transform: scale(1.25);
+
+
+}
+ul li a:hover{
+	
+	text-decoration: bold;
+	
+
+
+}
+
+
+.carousel-inner{
+	
+	height: 80vh;
+}
+
+.butonMain{
+	background-color: #DD4814;
+	transition: ease .3s; 
+	color: white;
+}
+
+.butonMain:hover{
+	background-color: #5352ed;
+}
+
+.bottomLink{
+	transition: transform .3s;
+	
+	transition: ease .3s;
+	text-decoration: none;
+	color: white;
+}
+
+.bottomLink:hover{
+	color: #DD4814!important;
+	
+	text-decoration: none;
+}
+
+p{
+	text-align: justify;
+}
+
+.articol h4{
+	color: #DD4814!important;
+}
+
+.articol{
+	background-color: rgba(0,0,0,0.16);
+	padding: 10px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+    }
+
+  html body .container {
+  scroll-behavior: smooth!important;
+}
+
+.container img{
+	width: 25%;
+}
+
+.navbar-inner {
+    background:transparent;
+}
+
+.main-content{
+	background-color: rgba(0,0,0,0.3);
+}
+
+.nomodify:hover{
+	color: white!important;
+}
+
+.center-horizontally{
+	
+	
+}
